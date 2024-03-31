@@ -1,0 +1,4 @@
+torch == 2.0.0
+transformers == 4.35.2
+numpy == 1.24.4
+openai == 0.28.1

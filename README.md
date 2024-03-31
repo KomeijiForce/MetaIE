@@ -19,3 +19,13 @@ bash pretrain.sh
 
 ## Pre-trained checkpoints
 You can directly use [our pre-trained MetaIE model](https://huggingface.co/KomeijiForce/roberta-large-metaie) from Huggingface
+
+## Fine-tuning
+```
+bash tune_ner.sh
+```
+
+## Inference
+```
+python inference.py
+```

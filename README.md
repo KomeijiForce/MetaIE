@@ -18,7 +18,7 @@ bash pretrain.sh
 ```
 
 ## Pre-trained checkpoints
-You can directly use [our pre-trained MetaIE model](https://huggingface.co/KomeijiForce/roberta-large-metaie) from Huggingface
+You can directly use [our pre-trained MetaIE model](https://huggingface.co/KomeijiForce/roberta-large-metaie) from Huggingface. The readme in the Huggingface repo can help you to further understand the mechanism of MetaIE.
 
 ## Fine-tuning
 ```

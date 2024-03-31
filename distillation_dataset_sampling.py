@@ -71,7 +71,7 @@ for sentence in bar:
     iie = MetaIE(sentence)
 
     dataset.extend(parse(sentence, iie))
-
-    json.dump(dataset, open(sys.argv[3], "w"))
     
     bar.set_description(f"Sampling MetaIE Data: {len(dataset)} Samples")
+
+json.dump(dataset, open(sys.argv[3], "w"))

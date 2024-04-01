@@ -1,4 +1,5 @@
 # MetaIE 🌐
+This is a meta-model distilled from ChatGPT-3.5-turbo for information extraction. This is an intermediate checkpoint that can be well-transferred to all kinds of downstream information extraction tasks.
 
 ## To begin 🚀
 You need first to install the dependent packages.

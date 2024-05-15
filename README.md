@@ -41,7 +41,7 @@ python inference.py
 ## Citation 📝
 
 ```bibtex
-@article{DBLP:journals/corr/abs-2404-00457,
+@article{MetaIE,
   author       = {Letian Peng and
                   Zilong Wang and
                   Feng Yao and

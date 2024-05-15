@@ -1,4 +1,4 @@
-# MetaIE 🌐
+# MetaIE 🌐 [Paper](https://arxiv.org/abs/2404.00457)
 This is a meta-model distilled from ChatGPT-3.5-turbo for information extraction. This is an intermediate checkpoint that can be well-transferred to all kinds of downstream information extraction tasks.
 
 ![MetaIE](https://github.com/KomeijiForce/MetaIE/blob/main/metaie_overview.png)
@@ -36,4 +36,28 @@ bash tune_ner.sh
 ## Inference 🧠
 ```
 python inference.py
+```
+
+## Citation 📝
+
+```bibtex
+@article{DBLP:journals/corr/abs-2404-00457,
+  author       = {Letian Peng and
+                  Zilong Wang and
+                  Feng Yao and
+                  Zihan Wang and
+                  Jingbo Shang},
+  title        = {MetaIE: Distilling a Meta Model from {LLM} for All Kinds of Information
+                  Extraction Tasks},
+  journal      = {CoRR},
+  volume       = {abs/2404.00457},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2404.00457},
+  doi          = {10.48550/ARXIV.2404.00457},
+  eprinttype    = {arXiv},
+  eprint       = {2404.00457},
+  timestamp    = {Wed, 08 May 2024 17:22:41 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2404-00457.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```

@@ -25,6 +25,8 @@ bash pretrain.sh
 ## Pre-trained checkpoints 🔑
 You can directly use our pre-trained MetaIE models for [English](https://huggingface.co/KomeijiForce/roberta-large-metaie) and [Multi-language](https://huggingface.co/KomeijiForce/xlm-roberta-large-metaie) from Huggingface. The readme in the Huggingface repo can help you to further understand the mechanism of MetaIE.
 
+Update: A GPT-4-distilled [Checkpoint](https://huggingface.co/KomeijiForce/roberta-large-metaie-gpt4) is available now!
+
 ## Dataset 📚
 Our [dataset for distillation](https://huggingface.co/datasets/KomeijiForce/MetaIE-Pretrain) is at Huggingface.
 

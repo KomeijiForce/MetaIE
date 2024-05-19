@@ -30,12 +30,14 @@ Update: A GPT-4-distilled [Checkpoint](https://huggingface.co/KomeijiForce/rober
 ## Dataset 📚
 Our [dataset for distillation](https://huggingface.co/datasets/KomeijiForce/MetaIE-Pretrain) is at Huggingface.
 
-## Fine-tuning 🔧
+## Downstream Scenario (CoNLL2003 as an instance) 🛠️
+
+### Fine-tuning 🔧
 ```
 bash tune_ner.sh
 ```
 
-## Inference 🧠
+### Inference 🧠
 ```
 python inference.py
 ```

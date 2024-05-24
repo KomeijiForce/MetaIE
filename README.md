@@ -27,6 +27,8 @@ You can directly use our pre-trained MetaIE models for [English](https://hugging
 
 Update: A GPT-4-distilled [Checkpoint](https://huggingface.co/KomeijiForce/roberta-large-metaie-gpt4) is available now!
 
+Update: A GPT-4o-distilled [Checkpoint](https://huggingface.co/KomeijiForce/roberta-large-metaie-super-academia-gpt4o) for Academia Domain is available now!
+
 ## Dataset 📚
 Our [dataset for distillation](https://huggingface.co/datasets/KomeijiForce/MetaIE-Pretrain) is at Huggingface.
 

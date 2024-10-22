@@ -17,6 +17,8 @@ You can create your own distillation dataset based on your own corpus:
 python distillation_dataset_sampling.py <your OpenAI API key> <path to your corpus (e.g. example.txt)> <path to distillation dataset (e.g. distill/metaie.json)>
 ```
 
+If you don't want to spend money, you can replace the ```train_file``` argument in the meta-learning script by ```KomeijiForce/MetaIE-Pretrain```, which is used for our experiment.
+
 ## Meta-learning 🤖
 ```
 bash pretrain.sh

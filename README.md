@@ -3,7 +3,7 @@ This is a meta-model distilled from ChatGPT-3.5-turbo for information extraction
 
 ![MetaIE](https://github.com/KomeijiForce/MetaIE/blob/main/metaie_overview.png)
 
-[Link to MetaIE Paper](https://arxiv.org/abs/2404.00457)
+Update: We release a new model by merging the ability of MetaIE and massive other resources into it: [Cuckoo](https://github.com/KomeijiForce/Cuckoo).
 
 ## To begin 🚀
 You need first to install the dependent packages.
